@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Froggy AI — AI Document & Signature Intelligence Frontend
+#  Froggy AI — AI Document & Signature Intelligence
 
 **A premium Flutter Web interface for document OCR, conversational PDF chat, AI image generation, and signature verification.**
 
